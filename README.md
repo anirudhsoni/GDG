@@ -1,3 +1,3 @@
 # GDG
-![](Images/login.png)
-![](Images/review.png)
+![](Images/login.PNG)
+![](Images/review.PNG)
